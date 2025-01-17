@@ -1,2 +1,3 @@
 # R4t
-An advanced web browser proxy powered by Ultraviolet.
+Still in development!
+If you want a demo wait a few minutes, then check back here.
